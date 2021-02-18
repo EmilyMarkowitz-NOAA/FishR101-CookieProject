@@ -1,0 +1,13 @@
+sugar_cookies : 1
+gingerbread_cookies : 1
+bars_of_death : 2
+oatmeal_drops : 1
+hazelnut_balls : 2
+fudge : 1
+truffles : 0
+peanut_butter_bark : 2
+white_mac_cookies : 1
+m_m_cookies : 0
+chocloate_chip_cookies : 0
+grandpa_joes_eggnog : 1
+icing : 6
